@@ -8,4 +8,4 @@ A java backend using `Java`, `Spring Boot`.
 
 ## License
 
-Java Backend is license under GNU General Public License v3.0.
+Java Backend is licensed under GNU General Public License v3.0.
